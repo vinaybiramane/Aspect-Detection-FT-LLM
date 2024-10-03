@@ -6,3 +6,5 @@ rouge_score
 loralib
 peft
 datasets
+scikit-learn
+
