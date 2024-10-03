@@ -1,9 +1,9 @@
-# ABSA
-Context Based Aspect Sentiment
+# Aspect Detection
+Context Based Aspect
 
-## ABSA: Context-Based Aspect Sentiment Analysis
+## Context-Based Aspect 
 
-This project focuses on fine-tuning a model for Aspect-Based Sentiment Analysis (ABSA) using contextual information.
+This project focuses on fine-tuning a model for Aspect using contextual information.
 
 ### Project Structure
 
