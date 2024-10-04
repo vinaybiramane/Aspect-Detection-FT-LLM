@@ -7,4 +7,11 @@ loralib
 peft
 datasets
 scikit-learn
-
+langchain
+langchain-core
+langchain-community
+python-dotenv
+langchain-huggingface
+streamlit
+pydantic
+evaluate
